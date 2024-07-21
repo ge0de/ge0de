@@ -10,6 +10,12 @@
 
 ## 🔗 Links
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/lv5hvvnco2ks5slsk5h3i0hu2?si=194e4c30f2ef45ff)
+[![Chess.com (1)](https://img.shields.io/badge/Chess.com%20(1)-81B64C?style=for-the-badge&logo=Chess.com&logoColor=white)](https://www.chess.com/member/ununoctiumastatine)
+[![Chess.com (2)](https://img.shields.io/badge/Chess.com%20(2)-81B64C?style=for-the-badge&logo=Chess.com&logoColor=white)](https://www.chess.com/member/0ctium)
+[![Chess.com (3)](https://img.shields.io/badge/Chess.com%20(3)-81B64C?style=for-the-badge&logo=Chess.com&logoColor=white)](https://www.chess.com/member/arastotle)
+[![Lichess](https://img.shields.io/badge/Lichess-000000?style=for-the-badge&logo=Lichess&logoColor=white)](https://lichess.org/@/ITAras)
+
+
 
 ## 🖥️ Programming Languages
 ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
