@@ -1,13 +1,11 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=25&duration=1800&pause=500&color=00aa00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile.;GitHub+profilime+ho%C5%9F+geldiniz.;Willkommen+auf+meinem+GitHub-Profil.;Bienvenue+sur+mon+profil+GitHub." />
+    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=40&duration=1800&pause=500&color=9C27B0&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+profile.;GitHub+profilime+ho%C5%9F+geldiniz.;Willkommen+auf+meinem+GitHub-Profil.;Bienvenue+sur+mon+profil+GitHub." />
   </a>
 </p>
 
-## Personal Website
-![Static Badge](https://img.shields.io/badge/%3CComing%20Soon%2F%3E-777777?style=for-the-badge&logoColor=white)
-
-## Links
+## Links / Contact
+![Website (Coming Soon)](https://img.shields.io/badge/Website%20(Coming%20Soon)-777777?style=for-the-badge&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arastotle/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/arastotl/)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/lv5hvvnco2ks5slsk5h3i0hu2?si=194e4c30f2ef45ff)
