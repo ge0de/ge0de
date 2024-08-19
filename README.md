@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=40&duration=1800&pause=500&color=9C27B0&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+profile.;GitHub+profilime+ho%C5%9F+geldiniz.;Willkommen+auf+meinem+GitHub-Profil.;Bienvenue+sur+mon+profil+GitHub." />
+    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=35&duration=1300&pause=500&color=9575cd&center=true&vCenter=true&width=630&lines=Welcome+to+my+GitHub+profile.;GitHub+profilime+ho%C5%9F+geldiniz.;Willkommen+auf+meinem+GitHub-Profil.;Bienvenue+sur+mon+profil+GitHub." />
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/lv5hvvnco2ks5slsk5h3i0hu2?si=194e4c30f2ef45ff)
 [![arastotle Discord](https://img.shields.io/badge/arastotle-5865F2?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://discord.com/)
 
-## Programming Languages & Dev Tools
+## Programming Languages & Development Tools
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=000000)
@@ -20,8 +20,9 @@
 ![Static Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite)<br>
 ![Static Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/%20Visual%20Studio-23a9f2?style=for-the-badge&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/%20Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=ffffff)
