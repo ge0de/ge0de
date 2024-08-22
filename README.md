@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=35&duration=1300&pause=500&color=9575cd&center=true&vCenter=true&width=630&lines=Welcome+to+my+GitHub+profile.;GitHub+profilime+ho%C5%9F+geldiniz.;Willkommen+auf+meinem+GitHub-Profil.;Bienvenue+sur+mon+profil+GitHub." />
+    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=35&duration=1300&pause=500&color=4493f8&center=true&vCenter=true&width=630&lines=Welcome+to+my+GitHub+profile.;GitHub+profilime+ho%C5%9F+geldiniz.;Willkommen+auf+meinem+GitHub-Profil.;Bienvenue+sur+mon+profil+GitHub." />
   </a>
 </p>
 
@@ -21,6 +21,7 @@
 ![Static Badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite)<br>
 ![Static Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=Jinja&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/%20Visual%20Studio-23a9f2?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
