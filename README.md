@@ -33,6 +33,6 @@
 ![Static Badge](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=Espressif&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white)
 
-<!--## GitHub Statistics
+## GitHub Statistics
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ge0de"/>
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ge0de&layout=compact"/>-->
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ge0de&layout=compact"/>
