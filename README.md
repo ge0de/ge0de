@@ -23,6 +23,7 @@
 ![Static Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=Jinja&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/%20Visual%20Studio-23a9f2?style=for-the-badge&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
