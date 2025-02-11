@@ -12,22 +12,25 @@
 [![arastotle Discord](https://img.shields.io/badge/arastotle-5865F2?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://discord.com/)
 
 ## Programming Languages & Development Tools
+![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=Python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=000000)
-![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=Python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![Static Badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite)<br>
+![Static Badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite)
+
+![Static Badge](https://img.shields.io/badge/%20Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/%20Visual%20Studio-23a9f2?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=Jinja&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/%20Visual%20Studio-23a9f2?style=for-the-badge&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=white)
-![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-![Static Badge](https://img.shields.io/badge/%20Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=ffffff)
+
+![Static Badge](https://img.shields.io/badge/SolidWorks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=%23ffffff&labelColor=%23005386&color=%23005386)
 
 ## IoT Hardware Platforms
 ![Static Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
