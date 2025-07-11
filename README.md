@@ -13,7 +13,9 @@
 
 ## Programming Languages & Development Tools
 ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-%23ffffff?style=for-the-badge&logo=cplusplus&logoColor=ffffff&color=%2300599C)
 ![Static Badge](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=Python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Java-%23ffffff?style=for-the-badge&logoColor=ffffff&color=f89820)
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=000000)
@@ -26,6 +28,7 @@
 ![Static Badge](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/%20Visual%20Studio-23a9f2?style=for-the-badge&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Eclipse%20IDE-%23ffffff?style=for-the-badge&logo=eclipseide&logoColor=ffffff&color=2C2255)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=Jinja&logoColor=ffffff)
